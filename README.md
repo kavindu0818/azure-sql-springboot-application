@@ -58,5 +58,5 @@ This repository contains four projects:
 - **Name**: K.G Kavindu Madhuranga Wijerathna
 - **Student ID**: 2301671008
 - **Email**: kavindumaduranga184@gmail.com
-- **GitHub Repository**: Azure SQL Spring Boot Application
-- **Demo Video**: Watch Demo
+- **GitHub Repository**: https://github.com/kavindu0818/azure-sql-springboot-application.git
+- **Demo Video**: https://drive.google.com/file/d/1bdmV0yugqMgxHA4crJfsxqmvMtRmmLZG/view?usp=sharing
